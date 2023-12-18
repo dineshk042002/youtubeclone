@@ -3,7 +3,7 @@
     "redux-thunk": "^3.0.1"
   },
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^2.0.22"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -11,5 +11,4 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   }
-  
 }
