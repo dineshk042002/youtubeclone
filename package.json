@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "redux-thunk": "^3.0.1"
   },
   "devDependencies": {
@@ -9,7 +9,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "clean": "react-scripts clean",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   }
